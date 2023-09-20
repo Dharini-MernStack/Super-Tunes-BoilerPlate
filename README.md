@@ -49,7 +49,7 @@ Include a prop named ‘data’ which should be an object with the following sha
 }
 Implement prop-type validators
 
-# Notes for Component: <Rating />
+## Notes for Component: <Rating />
 
 This component accepts a number as a prop and renders the equivalent number of star icons on the UI.
 This component must be a function component
