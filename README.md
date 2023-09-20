@@ -1,5 +1,8 @@
 # Super-Tunes-BoilerPlate
 
+ # Getting Started
+ Create a react app using CRA/vite.js. The CSS is provided in the boiler plate given.
+ 
 # Key Skills
 The intent of this exercise is to give you a thorough workout on the following React features:
 Building class components
@@ -57,4 +60,5 @@ Include a prop named ‘stars’ which should bring in a number that translates 
 The actual star icon is a div with the class-name ‘start’.
 To be able to use the .map() method to render instances of the above said div, you can use this expression:
  [...Array(Math.round(stars <= 5 ? stars : 0)).keys()].map();
- 
+
+
