@@ -25,7 +25,7 @@ Take the look at the design specification documents for all components to unders
 
 
 
-# Notes for Component: *<App />*
+# Notes for Component:<App />
 The App Component is the main component that renders the Application and is also responsible for state management & manipulation.
  
 The App component must be built as a class component
@@ -36,7 +36,7 @@ For sorting by rating, you can use the following expression:
 For sorting by title, use the following expression:
  [...this.state.songs.sort((a, b) =>a.title.toUpperCase() < b.title.toUpperCase() ? -1 : 1)]
  
-# Notes for Component: *<SongCard />*
+# Notes for Component:<SongCard />
 
 The SongCard component renders a row with the thumbnail, title, artist and rating values for a song.  
 This component must be a function component
@@ -49,7 +49,7 @@ Include a prop named ‘data’ which should be an object with the following sha
 }
 Implement prop-type validators
 
-## Notes for Component: *<Rating />*
+# Notes for Component:<Rating />
 
 This component accepts a number as a prop and renders the equivalent number of star icons on the UI.
 This component must be a function component
