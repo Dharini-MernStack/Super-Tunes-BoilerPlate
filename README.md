@@ -13,7 +13,7 @@ Rendering lists & setting the key attribute
 Using props
 Implementing prop-type validators
  
-# User Stories
+# Expected Output
 The app loads up with the screen shown below. As you can see, it displays a list of song titles with the thumbnail, title, artist and rating:
 ![Super Tunes](https://github.com/Dharini-MernStack/Super-Tunes-BoilerPlate/assets/76996610/1d79875e-9375-49e3-8faf-1c651213193b)
 Users can also click on the ‘Sort by Title’ and ‘Sort by Rating’ buttons to actively sort this list.
