@@ -1,7 +1,7 @@
 # Super-Tunes-BoilerPlate
 
  # Getting Started
- Create a react app using CRA/vite.js. The CSS is provided in the boiler plate given.
+ Fork the code and make a clone on your local machine. use npm install and npm run start to start the development server.
  
 # Key Skills
 The intent of this exercise is to give you a thorough workout on the following React features:
